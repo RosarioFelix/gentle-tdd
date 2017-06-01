@@ -1,0 +1,19 @@
+{
+  "name": "gentle-pu",
+  "version": "1.0.0",
+  "description": "ejercicio de tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RosarioFelix/gentle-tdd.git"
+  },
+  "author": "RosarioFelix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RosarioFelix/gentle-tdd/issues"
+  },
+  "homepage": "https://github.com/RosarioFelix/gentle-tdd#readme"
+}
